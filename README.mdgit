@@ -1,0 +1,1 @@
+# javaTSP  initgit add README.mdgit commit -m "first commit"git remote add origin https://github.com/m10316010/javaTSP.gitgit push -u origin master
