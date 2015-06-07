@@ -5,10 +5,11 @@ public class City {
     double y;
     
     // Constructs a randomly placed city
-    public City(){
+   /* public City(){
         this.x = (double)(Math.random()*200);
         this.y = (double)(Math.random()*200);
     }
+    */
     
     // Constructs a city at chosen x, y location
     public City(double x, double y){
